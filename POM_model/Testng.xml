@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+
+<listeners>
+        <listener
+            class-name="com.valuemomentum.assesment2.utils.Listeners"></listener>
+    </listeners>
+  <test name="Assessment Test" >
+    <classes>
+       <class name="com.valuemomentum.assesment2.test.SmokeTest" />
+    </classes>
+  </test>
+ 
+
+</suite>

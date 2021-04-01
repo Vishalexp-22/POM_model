@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="28778" started-at="2021-03-23T15:13:08 IST" finished-at="2021-03-23T15:13:37 IST">
+    <groups>
+    </groups>
+    <test name="Assessment Test" duration-ms="28778" started-at="2021-03-23T15:13:08 IST" finished-at="2021-03-23T15:13:37 IST">
+      <class name="com.valuemomentum.assesment2.test.SmokeTest">
+        <test-method status="PASS" signature="test_beforesuit()[pri:0, instance:com.valuemomentum.assesment2.test.SmokeTest@581ac8a8]" name="test_beforesuit" is-config="true" duration-ms="7921" started-at="2021-03-23T15:13:08 IST" finished-at="2021-03-23T15:13:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_beforesuit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.valuemomentum.assesment2.test.SmokeTest@581ac8a8]" name="setup" is-config="true" duration-ms="60" started-at="2021-03-23T15:13:16 IST" finished-at="2021-03-23T15:13:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="assessment2()[pri:0, instance:com.valuemomentum.assesment2.test.SmokeTest@581ac8a8]" name="assessment2" duration-ms="19570" started-at="2021-03-23T15:13:16 IST" finished-at="2021-03-23T15:13:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assessment2 -->
+        <test-method status="PASS" signature="test_aftersuit()[pri:0, instance:com.valuemomentum.assesment2.test.SmokeTest@581ac8a8]" name="test_aftersuit" is-config="true" duration-ms="959" started-at="2021-03-23T15:13:36 IST" finished-at="2021-03-23T15:13:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_aftersuit -->
+      </class> <!-- com.valuemomentum.assesment2.test.SmokeTest -->
+    </test> <!-- Assessment Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>

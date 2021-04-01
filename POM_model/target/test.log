@@ -1,0 +1,24 @@
+2021-03-23 09:47:04,218 INFO c.v.a.t.SmokeTest [main] Setup method called
+2021-03-23 09:47:04,345 INFO c.v.a.t.SmokeTest [main] Home Page method called
+2021-03-23 09:47:09,713 INFO c.v.a.t.SmokeTest [main] MobilePage method called
+2021-03-23 09:47:11,455 INFO c.v.a.t.SmokeTest [main] Filter Result Page method called
+2021-03-23 09:47:13,740 INFO c.v.a.t.SmokeTest [main] Product Details Page method called
+2021-03-23 09:47:21,564 INFO c.v.a.t.SmokeTest [main] Test Ended
+2021-03-23 13:29:24,532 INFO c.v.a.t.SmokeTest [main] Setup method called
+2021-03-23 13:29:24,679 INFO c.v.a.t.SmokeTest [main] Home Page method called
+2021-03-23 13:29:30,632 INFO c.v.a.t.SmokeTest [main] MobilePage method called
+2021-03-23 13:29:32,934 INFO c.v.a.t.SmokeTest [main] Filter Result Page method called
+2021-03-23 13:29:35,700 INFO c.v.a.t.SmokeTest [main] Product Details Page method called
+2021-03-23 13:29:42,749 INFO c.v.a.t.SmokeTest [main] Test Ended
+2021-03-23 14:41:16,148 INFO c.v.a.t.SmokeTest [main] Setup method called
+2021-03-23 14:41:16,258 INFO c.v.a.t.SmokeTest [main] Home Page method called
+2021-03-23 14:41:21,782 INFO c.v.a.t.SmokeTest [main] MobilePage method called
+2021-03-23 14:41:23,897 INFO c.v.a.t.SmokeTest [main] Filter Result Page method called
+2021-03-23 14:41:26,383 INFO c.v.a.t.SmokeTest [main] Product Details Page method called
+2021-03-23 14:41:34,196 INFO c.v.a.t.SmokeTest [main] Test Ended
+2021-03-23 15:13:16,693 INFO c.v.a.t.SmokeTest [main] Setup method called
+2021-03-23 15:13:16,859 INFO c.v.a.t.SmokeTest [main] Home Page method called
+2021-03-23 15:13:22,489 INFO c.v.a.t.SmokeTest [main] MobilePage method called
+2021-03-23 15:13:25,404 INFO c.v.a.t.SmokeTest [main] Filter Result Page method called
+2021-03-23 15:13:27,910 INFO c.v.a.t.SmokeTest [main] Product Details Page method called
+2021-03-23 15:13:36,347 INFO c.v.a.t.SmokeTest [main] Test Ended
